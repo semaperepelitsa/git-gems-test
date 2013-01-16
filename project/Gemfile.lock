@@ -1,0 +1,16 @@
+GIT
+  remote: git://github.com/semaperepelitsa/git-gems-test.git
+  revision: 1161b0e3dcd0f48cfc4d716fa1de66af31f1bbc3
+  specs:
+    foo (1.0.0)
+      foo-misc (= 1.0.0)
+    foo-misc (1.0.0)
+
+GEM
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  foo!
