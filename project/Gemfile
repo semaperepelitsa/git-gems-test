@@ -1,1 +1,1 @@
-gem 'foo', git: "git://github.com/semaperepelitsa/git-gems-test.git"
+gem 'foo-misc', git: "git://github.com/semaperepelitsa/git-gems-test.git", branch: "no-wrapper"
